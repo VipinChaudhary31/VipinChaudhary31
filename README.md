@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VipinChaudhary31
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on Web development projects
+- 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me ...
 
 <!---
