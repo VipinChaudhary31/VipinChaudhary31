@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VipinChaudhary31&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![](https://komarev.com/ghpvc/?username=VipinChaudhary31&color=lightgrey&style=for-the-badge)
 
 <!---
 VipinChaudhary31/VipinChaudhary31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
