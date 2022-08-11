@@ -1,21 +1,9 @@
-<!-- - 👋 Hi, I’m @VipinChaudhary31
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on Web development
-- 📫 How to reach me ...
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VipinChaudhary31&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VipinChaudhary31&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=VipinChaudhary31&color=lightgrey&style=for-the-badge)
 
-<!---
-VipinChaudhary31/VipinChaudhary31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!-- 
  <h1 align="center">Hi 👋, I'm Vipin Cahudhary</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
@@ -41,30 +29,16 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipinchaudhary31&show_icons=true&locale=en&layout=compact" alt="vipinchaudhary31" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vipinchaudhary31&show_icons=true&locale=en" alt="vipinchaudhary31" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vipinchaudhary31&" alt="vipinchaudhary31" /></p>
- -->
- 
- 
- 
- ### Hi there 👋, my name is Vipin
-
-Skills: PYTHON/DJANGO/BOOTSTRAP/ JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Django 
-- 👯 I’m looking to collaborate on Web Development 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VipinChaudhary31)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@VipinCh08926951)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VipinChaudhary31)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VipinChaudhary31&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VipinChaudhary31)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=VipinChaudhary31)  
-
-![Profile views](https://gpvc.arturio.dev/VipinChaudhary31)  
+<!---
+VipinChaudhary31/VipinChaudhary31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
