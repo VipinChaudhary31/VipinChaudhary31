@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipinchaudhary31&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="vipinchaudhary31" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Typescript**
 
 - 👯 I’m looking to collaborate on **Web development**
 
