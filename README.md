@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vipin Chaudhary</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipinchaudhary31&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="vipinchaudhary31" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vipinchaudhary31&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="vipinchaudhary31" /> </p>
+
 
 - 🌱 I’m currently learning **Nodejs**
 
@@ -9,8 +10,8 @@
 
 - 📫 How to reach me **vipinchaudhary31122002@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
 </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -31,14 +32,17 @@
 
 
 <!-- Github stats -->
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=vipinchaudhary31&show_icons=true&locale=en&&count_private=true" alt="vipinchaudhary31"></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=vipinchaudhary31&show_icons=true&locale=en&&count_private=true" alt="vipinchaudhary31"></p>
 
 <!-- github streaks -->
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=vipinchaudhary31&" alt="vipinchaudhary31" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vipinchaudhary31&" alt="vipinchaudhary31" /></p>
 
 <!-- Languages used -->
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vipinchaudhary31&show_icons=true&locale=en&langs_count=10" alt="vipinchaudhary31" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vipinchaudhary31&show_icons=true&locale=en&langs_count=10" alt="vipinchaudhary31" /></p>
 
+<p align="center">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=vipinchaudhary31&data=followers,repositories,stars,commits">
+</p>
 <!---
 VipinChaudhary31/VipinChaudhary31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
