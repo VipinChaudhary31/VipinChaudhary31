@@ -4,9 +4,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vipinchaudhary31&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="vipinchaudhary31" /> </p>
 
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Backend Web Development**
 
-- 👯 I’m looking to collaborate on **Web development**
+- 👯 I’m looking to collaborate on **Web Development**
 
 - 📫 How to reach me **vipinchaudhary31122002@gmail.com**
 
